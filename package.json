@@ -1,0 +1,25 @@
+{
+  "name": "apicheckusingchaimocha",
+  "version": "1.0.0",
+  "description": "API check using Chai Mocha Assertion Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawankumar46/APICheckUsingChaiMocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawankumar46/APICheckUsingChaiMocha/issues"
+  },
+  "homepage": "https://github.com/sawankumar46/APICheckUsingChaiMocha#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0",
+    "should": "^11.2.0"
+  }
+}
